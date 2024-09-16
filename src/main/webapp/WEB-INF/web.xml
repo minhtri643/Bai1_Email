@@ -6,7 +6,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>EmailListServlet</servlet-name>
-        <url-pattern>/EmailListServlet</url-pattern>
+        <url-pattern>/emailList</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
